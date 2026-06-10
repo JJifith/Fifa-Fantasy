@@ -1,20 +1,6 @@
-# Dependencies - NEVER push these
 node_modules/
-
-# Environment files - NEVER push these (contains your API keys)
 .env
 backend/.env
-
-# Build output
 frontend/build/
-
-# OS files
 .DS_Store
 Thumbs.db
-
-
-frontend/node_modules/
-backend/node_modules/
-npm-debug.log*
-.env.local
-.env.*.local
