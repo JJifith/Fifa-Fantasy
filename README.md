@@ -48,3 +48,14 @@ cd frontend && npm install && npm start
 | Own Goal | -2 | -2 | -2 | -2 |
 | Appearance | +1 all | | | |
 | 60+ mins | +1 all | | | |
+
+
+
+
+## Details
+
+Basically I have used Zafronix API free tier for the project. Allows a limited no of calls per day. You may create an API there and then link or paste it in the env file mentioned in the code. The features are all inspired upon existing league fantasies. You may alter the code at your side according to your wish and logic. You can use multiple free APIs to cater your need as such.
+The players are not yet added in the database. You are required to setup Postgres, run the sql query provided and then use the API to import the player details. The prices are not set, you are free to set it up according to you. 
+
+This is more like a CRUD application and has not yet had the visual features. If you want you can alter the frontend code to reflect the same.
+Thank you. Good luck to your team.
