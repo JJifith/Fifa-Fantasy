@@ -25,7 +25,6 @@ A full-stack fantasy football app for the FIFA World Cup 2026.
 
 ## Quick Start
 
-See [DEPLOY.md](DEPLOY.md) for full deployment instructions.
 
 ```bash
 # Backend
